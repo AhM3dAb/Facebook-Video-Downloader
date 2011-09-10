@@ -97,7 +97,6 @@ document.getElementById('load-f').style.display='';
 
 
 var count=0;
-//progress bar
 function Progress() 
 {	
    count++;
